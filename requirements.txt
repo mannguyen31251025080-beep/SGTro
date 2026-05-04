@@ -1,7 +1,10 @@
 streamlit
 streamlit-folium
+folium
 osmnx
-scikit-fuzzy
+networkx
 geopy
+scikit-fuzzy
 scipy
 numpy
+scikit-learn
